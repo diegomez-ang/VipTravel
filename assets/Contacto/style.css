@@ -1,0 +1,17 @@
+.img{
+    width: 80%;
+}
+
+.registro{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.gradiente{
+    background-image: url(../img/fondo_formulario.png) ;
+}
+
+.comentarios{
+    width: 70%;
+
+}
